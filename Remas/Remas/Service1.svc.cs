@@ -21,7 +21,7 @@ namespace Remas
         {
             if (composite == null)
             {
-                throw new ArgumentNullException("composite cp");
+                throw new ArgumentNullException("compbbosite cp");
             }
             if (composite.BoolValue)
             {
